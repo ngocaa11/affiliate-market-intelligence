@@ -1,0 +1,2 @@
+import {ProjectDashboard} from "@/components/project-dashboard";
+export default function Home(){return <main className="shell"><header className="topbar"><div className="brand">AMI / Research Desk</div><span className="tag">Evidence first</span></header><div className="eyebrow" style={{marginTop:36}}>Shopee Affiliate Market Intelligence</div><h1>Decisions you can trace, not trends you have to trust.</h1><p className="sub">Collect signals, review evidence, and approve each research stage before analysis moves forward.</p><ProjectDashboard/></main>}
