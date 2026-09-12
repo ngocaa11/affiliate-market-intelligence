@@ -1,0 +1,1 @@
+# affiliate-market-intelligence
